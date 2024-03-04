@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=J1 Old Footprint=694105309102 New Footprint=PCBComponent_1
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=EABE5D55-0538-4911-B169-F486380B4F0D New ItemGUID= Old RevisionGUID=0C52B75A-80AA-40A2-B2F1-3E14D1818488 New RevisionGUID=

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=BUTTON1 Pin=U100-43
+Removed Pin From Net: NetName=BUTTON2 Pin=U100-45
+Removed Pin From Net: NetName=BUTTON3 Pin=U100-46
+Added Pin To Net: NetName=BUTTON3 Pin=U100-28
+Added Pin To Net: NetName=BUTTON1 Pin=U100-32
+Added Pin To Net: NetName=BUTTON2 Pin=U100-33
+Added Member To Class: ClassName=_3_OUTPUT_RELAY Member=Component K204 JQ1P-5V-F

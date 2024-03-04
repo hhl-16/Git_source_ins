@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\INSITU_OPENSOURCE\ESP\alitum\gateway_tbl_ver1.1\gatewaytbl.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=gatewaytbl-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=gatewaytbl-slotholes.txt|DrillLayers=gtl,gbl

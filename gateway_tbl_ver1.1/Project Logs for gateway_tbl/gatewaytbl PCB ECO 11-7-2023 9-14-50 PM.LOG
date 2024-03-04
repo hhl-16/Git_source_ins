@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=BUTTON2 Pin=H100-1
+Removed Pin From Net: NetName=GND Pin=H100-2
+Removed Pin From Net: NetName=BUTTON1 Pin=H101-1
+Removed Pin From Net: NetName=GND Pin=H101-2
+Removed Pin From Net: NetName=BUTTON3 Pin=H102-1
+Removed Pin From Net: NetName=GND Pin=H102-2
+Removed Member From Class: ClassName=_2_MCU Member=H100
+Removed Member From Class: ClassName=_2_MCU Member=H101
+Removed Member From Class: ClassName=_2_MCU Member=H102
+Added Component: Designator=P107(KF128_2P)
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "KF128-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P108(KF128_2P)
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "KF128-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P109(KF128_2P)
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "KF128-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P107-1
+Added Pin To Net: NetName=BUTTON2 Pin=P107-2
+Added Pin To Net: NetName=GND Pin=P108-1
+Added Pin To Net: NetName=BUTTON1 Pin=P108-2
+Added Pin To Net: NetName=GND Pin=P109-1
+Added Pin To Net: NetName=BUTTON3 Pin=P109-2
+Added Member To Class: ClassName=_2_MCU Member=Component P107 KF128 2P
+Added Member To Class: ClassName=_2_MCU Member=Component P108 KF128 2P
+Added Member To Class: ClassName=_2_MCU Member=Component P109 KF128 2P
